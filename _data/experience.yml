@@ -4,7 +4,7 @@
   job_title: Chief Software Architect
   dates: January 2019 - Present
   quote: >
-    Design specifications, planning product milestones, defining functional and non-functional requirement of a vast portfolio of products
+    Design specifications, planning product milestones, defining functional and non-functional requirement of a vast portfolio of products. Stack: AWS.
   description: | # this will include new lines to allow paragraphs
     On this role I did system/architecture design. By given high-level product specifications my responsibilities were to ensure their feasibility, apply the best engineering practice and make the specifications technically concrete enough so that developers could implement them. Then, I would translate requirements into milestones and feature stories to make the developer's progress manageable.
 
@@ -14,7 +14,7 @@
   job_title: Java Chief Software Architect
   dates: April 2018 - January 2019
   quote: >
-    Developing telecom products
+    Developing telecom products. Stack: Java/GCP/Kubernetes.
   description: | # this will include new lines to allow paragraphs
     My responsibilities were to rebuild a huge (millions lines of code) product using Oracle to newSQL Cloud Spanner database that would give great horizontal scalability. While Cloud Spanner is indeed newSQL the transition from Oracle (and its dialect) was not trivial - there were certain technical challenges on the way including designing the ID sequence generators and working on tools to efficiently test the system on the high-load.
 
@@ -24,7 +24,7 @@
   job_title: Java Software Architect
   dates: December 2016 - April 2018
   quote: >
-    Developing heavily algorithmic code generators.
+    Developing heavily algorithmic code generators. Stack: Java/Groovy.
   description: | # this will include new lines to allow paragraphs
     This was probably my most "sciency" work of all. We were developing a tool(s) that would allow us to solve a problem of increasing test coverage of tens of millions lines of code. The tool would take code as an input and product unit tests. The challenge here is unmatched and you cannot simply go and Google the solution - no such tools existed back then and I think it is so to this day.
 
@@ -36,7 +36,7 @@
   job_title: Software Engineer
   dates: February 2016 - December 2016
   quote: >
-    Work on a variety of Java products, heavily centric on testing.
+    Work on a variety of Java products, heavily centric on testing. Stack: Java.
   description: | # this will include new lines to allow paragraphs
     That was my first position in Crossover - my tasks were to work in a product-agnostic way, analysing and building absolutely different products and increasing the test coverage of them.
 
@@ -46,7 +46,7 @@
   job_title: Developer/Lead Developer
   dates: October 2011 - February 2016
   quote: >
-    Russian/Finnish company focuses on producing software for different european companies.
+    Russian/Finnish company focuses on producing software for different european companies. Stack: C++/Java (Spring, JSF)/JS.
   description: | # this will include new lines to allow paragraphs
     The first project I got in Constant was a C++ embedded system that once installed on a device tracks the position and movement of trucks. The system worked on a proprietary OS and was event based, i.e. whenever
     a truck makes a too risky u-turn the device would raise an event and send it to the server for the further analysis.
@@ -59,7 +59,7 @@
   job_title: Developer/Lead Developer
   dates: November 2008 - September 2010
   quote: >
-    Russian company focuses on different GSM devices.
+    Russian company focuses on different GSM devices. Stack: C.
   description: | # this will include new lines to allow paragraphs
     That was my first job! I started during my university years as I was keen on programming embedded systems. What I really liked about this job is the immediate feedback whenever you upload your program to a device - you can physically light a led on a material device via writing something on a computer and it was groundbreaking for me.
 
