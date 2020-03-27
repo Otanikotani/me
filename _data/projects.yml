@@ -2,6 +2,19 @@
   name: Fogbugz
   link: https://www.fogbugz.com/
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is the most recent products I worked on. It is a project management system.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Once developed by a (founder of Stackoverflow)[https://www.joelonsoftware.com/] Fogbugz was a 20 years old legacy product, which our team has rewritten to the modern cloud stack. I worked on a system design for the product creating models, defining functional requirements and milestones for developers
+    to complete the rebuild in trackable and managed fashion.
+
+    Most interestingly, this project gave me an opportunity to polish my Behaviour-Driven Development skills as we used BDD approach to define and verify functional requirements of the product.
+
+- layout: top-middle
+  name: Optiva
+  link: https://www.youtube.com/watch?v=g0rX9SVr_UQ
+  quote: >
+    This is probably the most successful product I worked on. The product demo was presented on Google Cloud Next 2018.
+  description: | # this will include new lines to allow paragraphs
+    As a huge telecom (used by Vodafone) this product is extremely high-load. My responsibilities were to rewrite the backend of the system from unscalable Oracle DB to Google Cloud Spanner - newSQL horizontally scalable RDBMS.
+
+    I strongly believe that my teammates in this product were the brightest people I ever known. I learnt a lot from them, especially when it came to deploying the product on Kubernetes.
