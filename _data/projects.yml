@@ -4,7 +4,7 @@
   quote: >
     This is the most recent products I worked on. It is a project management system.
   description: | # this will include new lines to allow paragraphs
-    Once developed by a (founder of Stackoverflow)[https://www.joelonsoftware.com/] Fogbugz was a 20 years old legacy product, which our team has rewritten to the modern cloud stack. I worked on a system design for the product creating models, defining functional requirements and milestones for developers
+    Once created by the founder of Stackoverflow (Joel Spolsky - https://www.joelonsoftware.com/) Fogbugz was a 20 years old legacy product, which our team has rewritten to the modern cloud stack. I worked on a system design for the product creating models, defining functional requirements and milestones for developers
     to complete the rebuild in trackable and managed fashion.
 
     Most interestingly, this project gave me an opportunity to polish my Behaviour-Driven Development skills as we used BDD approach to define and verify functional requirements of the product.
