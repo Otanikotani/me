@@ -51,5 +51,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
+plugins:
+
 gems:
   - jekyll-pdf
