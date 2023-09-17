@@ -6,5 +6,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Andrey Artyukhov
+title: Andrei Artiukhov
 ---

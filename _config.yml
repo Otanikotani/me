@@ -3,8 +3,8 @@ repository: otanikotani/me
 favicon: images/favicon.ico
 
 # Personal info
-name: Andrey Artyukhov
-title: Software Engineer
+name: Andrei Artiukhov
+title: Staff Software Engineer
 email: otanikotani@gmail.com
 website: www.github.com/otanikotani/me
 
@@ -16,11 +16,12 @@ linkedin_username: andrey-artyukhov-64423689
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Andrey and I like to call myself a software engineer. I have great experience in designing and developing backend applications for a variety of businesses - from telecom to project management systems.
+  Hell, my name is Andrei. I am a software engineer with a passion for building scalable and reliable systems. I architect software
+    solutions through DDD that are easy to maintain and extend. 
+  
+  My personality is INFJ-T (Advocate) - I am idealistic and principled. I want to stand up to make a difference.
 
-  I believe I am capable to work with little to none supervision being efficient and self-disciplined. I have over 7 years fully remote working experience, allowing me to understand the principles of personal growth and motivation.
-
-  I am most skilled in: <mark>Java</mark> and <mark>System Design</mark>
+  My skills: <mark>Kotlin</mark><br/><mark>TypeScript</mark><br/><mark>AWS</mark><br/><mark>Java Spring</mark><br/><mark>System Design</mark>
 
   Professional experience: 13 years
 
