@@ -4,7 +4,7 @@
   job_title: Staff Platform Engineer
   dates: August 2023 - Present
   quote: >
-    Tech Lead of one of the teams, responsible for the technical direction of the team.
+    Tech Lead of one of the teams, responsible for the technical direction of the team. <mark>TypeScript/mark> <mark>Kotlin</mark> <mark>AWS</mark> <mark>DDD</mark>
   description: | # this will include new lines to allow paragraphs
     I work in two directions - with members of my team to implement the best technical solution in the most efficient way and with other teams across the organization to build big product-defining features. 
 
@@ -14,8 +14,7 @@
   job_title: Senior Platform Engineer
   dates: January 2022 - August 2023
   quote: >
-    Backend - Kotlin + Spring, Typescript + NodeJS, AWS 
-    Frontend - React + good old AngularJS
+    Full stack critical user feature implementation. <mark>TypeScript/mark> <mark>Kotlin</mark> <mark>AWS</mark> <mark>React</mark>
   description: | # this will include new lines to allow paragraphs
     I designed and fullstack implemented user stories, worked closely with the product team to ensure the best user experience and the best technical solution. I advocated best practices for building resilient software systems including testing, CI/CD and observability patterns. I worked closely to introduce best practices of the software industry.
 
@@ -25,7 +24,7 @@
   job_title: Platform Engineer
   dates: February 2021 - January 2022
   quote: >
-    Backend for backend, create the platform for backend engineers to develop the application.
+    Backend for backend, create the platform for backend engineers to develop the application. <mark>AWS</mark> <mark>Datadog/mark> <mark>GitHub</mark>
   description: | # this will include new lines to allow paragraphs
     On this role I advocated best practices for building resilient software systems including testing, CI/CD and observability patterns. I worked closely to introduce best practices of the software industry.
 
